@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>asdf.demoEtidVO.DemoEtidVOQuery</name>
+        <lable>单表练习查询</lable>
+        <clazz>nccloud.web.asdf.pubinfo.demoEtidVO.action.DemoEtidVOQueryAction</clazz>
+    </action>
+
+    <action>
+        <name>asdf.demoEtidVO.DemoEtidVOSave</name>
+        <lable>单表练习保存</lable>
+        <clazz>nccloud.web.asdf.pubinfo.demoEtidVO.action.DemoEtidVOSaveAction</clazz>
+    </action>
+
+    <action>
+        <name>asdf.demoEtidVO.DemoEtidVOQueryPageGridByPks</name>
+        <lable>单表练习分页查询</lable>
+        <clazz>nccloud.web.asdf.pubinfo.demoEtidVO.action.DemoEtidVOQueryPageGridByPksAction</clazz>
+    </action>
+</actions>

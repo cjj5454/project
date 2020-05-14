@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding='gb2312'?>
+<module name="asdf">
+  <public>
+        <component remote="true" singleton="true"  tx="NONE">
+          <interface>nc.itf.org.IDemotreeVOQryService</interface>
+          <implementation>nc.impl.org.DemotreeVOQryServiceImpl</implementation>
+        </component>
+        <component remote="true" singleton="true"  tx="CMT">
+          <interface>nc.itf.org.IDemotreeVOManageService</interface>
+          <implementation>nc.impl.org.DemotreeVOManageServiceImpl</implementation>
+        </component>
+  </public> 
+</module> 

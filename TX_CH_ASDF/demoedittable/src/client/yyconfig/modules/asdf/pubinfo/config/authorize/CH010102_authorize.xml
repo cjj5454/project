@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <appcode>CH010102</appcode>
+        <actions>
+            <action>asdf.demoEtidVO.DemoEtidVOQuery</action>
+            <action>asdf.demoEtidVO.DemoEtidVOSave</action>
+            <action>asdf.demoEtidVO.DemoEtidVOQueryPageGridByPks</action>
+        </actions>
+    </authorize>
+</authorizes>

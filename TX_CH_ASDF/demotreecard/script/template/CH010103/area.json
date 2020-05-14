@@ -1,0 +1,38 @@
+[
+  {
+    "areadesc": "",
+    "areatype": 1,
+    "clazz": "nc.vo.asdf.demotreecard.DemotreeVO",
+    "creator": "~",
+    "dr": 0,
+    "isunfold": "Y",
+    "modifier": "~",
+    "pKFieldName": "pk_area",
+    "pagination": "false",
+    "pk_area": "PK_A01",
+    "position": 2,
+    "resid": "CH010103_0012",
+    "ts": "2020-04-30 14:52:05",
+    "templetid": "PK_T01"
+  },
+  {
+    "areadesc": "部门分类",
+    "areatype": 1,
+    "clazz": "nc.vo.asdf.demotreecard.DemotreeVO",
+    "code": "demotreeVO",
+    "creationtime": "2020-04-30 14:52:05",
+    "creator": "~",
+    "dr": 0,
+    "isunfold": "Y",
+    "metaid": "fcf62f24-c32a-4d61-aea8-a1209c7c8f32",
+    "metaname": "部门分类",
+    "metaspace": "asdf.demotreecard",
+    "modifier": "~",
+    "pk_area": "PK_A02",
+    "position": 1,
+    "resid": "CH010103_0002",
+    "tableName": "pub_area",
+    "templetid": "PK_T01"
+  }
+
+]

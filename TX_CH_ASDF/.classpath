@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="demoedittable2/classes" path="demoedittable2/src/public"/>
+	<classpathentry kind="src" output="demoedittable2/classes" path="demoedittable2/src/client"/>
+	<classpathentry kind="src" output="demoedittable2/classes" path="demoedittable2/src/private"/>
+	<classpathentry kind="src" output="demoedittable2/classes" path="demoedittable2/src/test"/>
+	<classpathentry kind="src" output="demoedittable2/classes" path="demoedittable2/resources"/>
+	<classpathentry kind="src" output="demotreecard/classes" path="demotreecard/src/public"/>
+	<classpathentry kind="src" output="demotreecard/classes" path="demotreecard/src/client"/>
+	<classpathentry kind="src" output="demotreecard/classes" path="demotreecard/src/private"/>
+	<classpathentry kind="src" output="demotreecard/classes" path="demotreecard/src/test"/>
+	<classpathentry kind="src" output="demotreecard/classes" path="demotreecard/resources"/>
+	<classpathentry kind="src" output="demoedittable/classes" path="demoedittable/src/public"/>
+	<classpathentry kind="src" output="demoedittable/classes" path="demoedittable/src/client"/>
+	<classpathentry kind="src" output="demoedittable/classes" path="demoedittable/src/private"/>
+	<classpathentry kind="src" output="demoedittable/classes" path="demoedittable/src/test"/>
+	<classpathentry kind="src" output="demoedittable/classes" path="demoedittable/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Ant_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Product_Common_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Middleware_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Framework_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Public_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Client_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Private_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Module_Lang_Library"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/Generated_EJB"/>
+	<classpathentry kind="con" path="com.yonyou.studio.udt.core.container/NCCloud_Library"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

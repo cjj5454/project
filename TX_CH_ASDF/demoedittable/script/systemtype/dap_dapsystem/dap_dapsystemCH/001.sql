@@ -1,0 +1,4 @@
+insert into dap_dapsystem(moduleid,appscope,def1,def2,def3,devmodule,dr,isaccount,isitem,islightmodule,isncinnermodule,isrelatedev,nodeorder,orgtypecode,parentcode,productscope,resid,supportcloseaccbook,systypecode,systypename,ts) values('CH',0,null,null,null,'asdf',0,'Y',null,'Y','Y',null,null,'GLOBLE00000000000000','~',null,'MCH01','N','ASDF','asdf','2020-04-30 14:41:25');
+go
+insert into dap_dapsystem(moduleid,appscope,def1,def2,def3,devmodule,dr,isaccount,isitem,islightmodule,isncinnermodule,isrelatedev,nodeorder,orgtypecode,parentcode,productscope,resid,supportcloseaccbook,systypecode,systypename,ts) values('CH01',0,null,null,null,'asdf',0,'Y',null,'Y','Y',null,null,'GLOBLE00000000000000','CH',null,'MCH01','N','ASDF','asdf','2020-04-30 14:41:25');
+go

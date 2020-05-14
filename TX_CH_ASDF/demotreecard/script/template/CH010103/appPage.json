@@ -1,0 +1,16 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "CH010103_demotreeVO",
+    "pagename": "树卡练习_树卡页面",
+    "pageurl": "/nccloud/resources/asdf/demotreecard/ch010103/main/index.html",
+    "parent_id": "PK_APP",
+    "parentcode": "CH010103",
+    "pk_apppage": "PK_PG01",
+    "resid": CH010103_demotreeVO,
+    "ts": "2020-04-30 14:52:05"
+  }
+]

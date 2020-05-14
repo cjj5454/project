@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <appcode>CH010103</appcode>
+        <actions>
+            <action>asdf.demotreeVO.deleteDemotreeVO</action>
+            <action>asdf.demotreeVO.queryDemotreeVOCard</action>
+            <action>asdf.demotreeVO.queryDemotreeVOTree</action>
+            <action>asdf.demotreeVO.saveDemotreeVO</action>
+            <action>asdf.ref.DemotreeVOTreeRef</action>
+        </actions>
+    </authorize>
+</authorizes>

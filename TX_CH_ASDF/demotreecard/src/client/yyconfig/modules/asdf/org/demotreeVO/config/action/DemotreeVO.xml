@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>asdf.demotreeVO.queryDemotreeVOTree</name>
+        <label>部门分类同步树查询</label>
+        <clazz>nccloud.web.asdf.org.demotreeVO.action.QueryDemotreeVOSynTreeAction</clazz>
+    </action>
+
+    <action>
+        <name>asdf.demotreeVO.queryDemotreeVOCard</name>
+        <label>部门分类卡片查询</label>
+        <clazz>nccloud.web.asdf.org.demotreeVO.action.QueryDemotreeVOCardAction</clazz>
+    </action>
+
+    <action>
+        <name>asdf.demotreeVO.deleteDemotreeVO</name>
+        <label>部门分类删除</label>
+        <clazz>nccloud.web.asdf.org.demotreeVO.action.DelDemotreeVOAction</clazz>
+    </action>
+
+    <action>
+        <name>asdf.demotreeVO.saveDemotreeVO</name>
+        <label>部门分类卡片保存</label>
+        <clazz>nccloud.web.asdf.org.demotreeVO.action.SaveDemotreeVOAction</clazz>
+    </action>
+
+    <action>
+        <name>asdf.ref.DemotreeVOTreeRef</name>
+        <label>参照</label>
+        <clazz>nccloud.web.asdf.ref.DemotreeVOTreeRef
+        </clazz>
+    </action>
+
+
+
+</actions>

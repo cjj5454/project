@@ -1,0 +1,43 @@
+[
+  {
+    "dr": "0",
+    "menuitemcode": "CH",
+    "menuitemname": "asdf",
+    "pk_menu": "1004Z510000000000FFL",
+    "pk_menuitem": "PK_M01",
+    "ts": "2020-05-06 18:48:21"
+  },
+  {
+    "dr": "0",
+    "menuitemcode": "CH01",
+    "menuitemname": "asdf",
+    "parentcode": "CH",
+    "pk_menu": "1004Z510000000000FFL",
+    "resid": "",
+    "pk_menuitem": "PK_M01",
+    "ts": "2020-05-06 18:48:21"
+  },
+  {
+      "dr": "0",
+      "menuitemcode": "CH0101",
+      "menuitemname": "demoedittable2",
+      "parentcode": "CH01",
+      "resid": "",
+      "pk_menu": "1004Z510000000000FFL",
+      "pk_menuitem": "PK_M02",
+      "ts": "2020-05-06 18:48:21"
+  },
+  {
+      "appcode": "CH010105",
+      "appid": "PK_APP",
+      "dr": "0",
+      "menudes": "单表练习2",
+      "menuitemcode": "CH010105",
+      "menuitemname": "单表练习2",
+      "parentcode": "CH0101",
+      "resid": "",
+      "pk_menu": "1004Z510000000000FFL",
+      "pk_menuitem": "PK_M03",
+      "ts": "2020-05-06 18:48:21"
+  }
+]
